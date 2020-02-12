@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "TechJobs",
+    "slug": "TechJobs",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "ios": {
+      "bundleIdentifier": "com.procons.techjobs"
+    },
+    "android": {
+      "package": "com.procons.techjobs"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoicon.png",
+    "splash": {
+      "image": "./assets/spl.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f4f4f4"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

@@ -1,0 +1,9 @@
+//export const base_url = "http://192.168.1.22/techjobs/apps/index.php/MobileApp/";
+//export const base_url ='http://techjobs.lk/demo/apps/index.php/MobileApp/';
+export const base_url="http://techjobs.lk/MobileApp/";
+export const asset_url="http://techjobs.lk/";
+export const login='user_login';
+export const signup = 'func1';
+export const getMemberList = 'get_member_list';
+export const consultantDetails = 'get_consultent_detail_by_id';
+export const findJobs='fetch_jobs';
